@@ -1,0 +1,9 @@
+System.out.println("x="x);package jtraining23;
+
+public class jtraining23 {		
+	 public static void main(String[] args) {
+		String x = "Hello";
+		String y = "World";
+		System.out.println(x +" "+ y);
+	}	
+}	

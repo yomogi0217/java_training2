@@ -1,0 +1,7 @@
+package training2.java;
+
+public class training2 {		
+	 public static void main(String[] args) {	
+		System.out.println("Javaを始めました。");
+	}	
+}		
